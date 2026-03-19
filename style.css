@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: rgb(218, 125, 192);
+    text-align: center;
+}
+
+h1 {
+    margin-top: 100px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.game-container {
+    margin-top: 100px;
+}
+
+button {
+    margin-top: 90px;
+    margin-left: 50px;
+    font-size: 25px;
+    margin: 65px;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    color: rgba(53, 0, 160, 0.518);
+}
+
+#result {
+    margin-top: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+
+#resultGif {
+    width: 200px;
+    margin-top: 20px;
+}
+
+/* Hide initially */
+.hidden {
+    display: none;
+}
